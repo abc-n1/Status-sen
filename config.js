@@ -2,7 +2,7 @@ module.exports = {
     /** ─── Auto Features ─────  */
     autoLikeStatus: true,
     /** ─── Owner Information ─── */
-    ownerNumber: '94760224138',
+    ownerNumber: '94742290168',
 
     /** ─── Bot Details ──────── */
     botDetails: {
