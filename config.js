@@ -10,7 +10,7 @@ if (fs.existsSync(envPath)) {
 
 // Configuration object
 const config = {
-  SESSION_ID: process.env.SESSION_ID || 'whatsapp_status_bot',
+  SESSION_ID: process.env.SESSION_ID || 'mw4kkDTT#LQu2xUysGGCKm-BrLSyoIa7XUNXuREG7zVElqj93sTQ',
   PREFIX: process.env.PREFIX || '.', // Command prefix for manual commands
 };
 
