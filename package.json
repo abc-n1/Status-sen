@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-status-seen-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot to automatically view status updates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nadu md",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "dotenv": "^16.4.5",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
